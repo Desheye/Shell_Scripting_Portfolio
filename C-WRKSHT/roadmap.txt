@@ -1,0 +1,30 @@
+1. Control Structures 
+a. if-else 
+b. case 
+c. for - loop
+d. while - loop
+e. exit codes & error handling
+
+2. Function
+a. define Function
+b. call Function
+c. local and global variable in Function
+
+3. Command Line Argument
+a. learn how to handle command line args
+b. utilize getopts 
+
+4. File Operations
+a. reading files
+b. writing files 
+c. file manipulation commands (mv, cp, rm)
+
+5. Text Processing 
+a. grep
+b. sed
+c. awk
+
+6. Variables & Data Structures
+a. variables and value
+b. data types 
+c. variables expansion and substitution 
